@@ -39,7 +39,7 @@ Create a log folder and a model folder in wherever you like to save the training
 |--------|--------|----------|
 | 0.395  | 0.378  | 0.386    |
 
-D2HC-RMVSNet point cloud results are provided: [DTU evaluation point clouds](https://drive.google.com/file/d/1wjAm6zOVahsa9G2QZjUOAv1EJV8Zjrng/view?usp=sharing)
+D2HC-RMVSNet point cloud results are provided: [DTU evaluation point clouds](https://drive.google.com/file/d/1wjAm6zOVahsa9G2QZjUOAv1EJV8Zjrng/view?usp=sharing).
 
 Evaluate the point clouds using the [DTU evaluation code](http://roboimagedata.compute.dtu.dk/?page_id=36).
 
