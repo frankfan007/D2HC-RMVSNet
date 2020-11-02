@@ -2,7 +2,7 @@
 
 Here is the official repository of our paper "[Dense Hybrid Recurrent Multi-view Stereo Net with Dynamic Consistency Checking](https://arxiv.org/abs/2007.10872?context=cs)" (ECCV2020 Spotlight).
 
-<img src="doc/architecture.png" width="800"> 
+<img src="D2HC-RMVSNet/doc/architecture.png" width="800"> 
 
 ## How to Use
 
@@ -39,18 +39,18 @@ Create a log folder and a model folder in wherever you like to save the training
 |--------|--------|----------|
 | 0.395  | 0.378  | 0.386    |
 
-<img src="doc/DTU_scan77.png" width="800"> 
+<img src="D2HC-RMVSNet/doc/DTU_scan77.png" width="800"> 
 
 #### Results on Tanks and Temples
 | Mean   | Family | Francis | Horse  | Lighthouse | M60    | Panther | Playground | Train |
 |--------|--------|---------|--------|------------|--------|---------|------------|-------|
 | 59.20  |	74.69 |	 56.04	|  49.42 |    60.08   | 59.81  |  59.61  |   60.04    |	53.92 |
 
-<img src="doc/blendMVS_results.png" width="800"> 
+<img src="D2HC-RMVSNet/doc/blendMVS_results.png" width="800"> 
 
 #### Results on BlendMVS
 
-<img src="doc/T&T_results.png" width="800"> 
+<img src="D2HC-RMVSNet/doc/T&T_results.png" width="800"> 
 
 # Citation
 If you find this project useful for your research, please cite:
