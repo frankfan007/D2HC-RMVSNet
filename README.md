@@ -54,11 +54,11 @@ As shown on Tanks and Temples [leaderboard](https://www.tanksandtemples.org/lead
 
 <img src="doc/T&T_results.png" width="800"> 
 
-### Results on BlendMVS
+### Results on BlendedMVS
 
 <img src="doc/blendMVS_results.png" width="800"> 
 
-The corresponding point cloud is also provided: [BlendMVS result](https://drive.google.com/file/d/1vXCNPjcnIzRQIFQU7X-DPANckOqFFPEM/view?usp=sharing).
+The corresponding point cloud is also provided: [BlendedMVS result](https://drive.google.com/file/d/1vXCNPjcnIzRQIFQU7X-DPANckOqFFPEM/view?usp=sharing).
 
 # Citation
 If you find this project useful for your research, please cite:
