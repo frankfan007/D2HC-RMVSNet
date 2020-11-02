@@ -32,23 +32,29 @@ Create a log folder and a model folder in wherever you like to save the training
 ### Fusion
 * Run ``./fusion_dtu.sh`` for DTU, or ``./fusion_tanks.sh`` for Tanks and Temples.
 
-### Benchmark results
+## Benchmark results
 
-#### Results on DTU
+### Results on DTU
 | Acc.   | Comp.  | Overall. |
 |--------|--------|----------|
 | 0.395  | 0.378  | 0.386    |
 
+D2HC-RMVSNet point cloud results with are also provided: [DTU evaluation point clouds](https://drive.google.com/file/d/1wjAm6zOVahsa9G2QZjUOAv1EJV8Zjrng/view?usp=sharing)
+
+Evaluate the point clouds using the [DTU evaluation code](http://roboimagedata.compute.dtu.dk/?page_id=36).
+
 <img src="doc/DTU_scan77.png" width="800"> 
 
-#### Results on Tanks and Temples
+### Results on Tanks and Temples
 | Mean   | Family | Francis | Horse  | Lighthouse | M60    | Panther | Playground | Train |
 |--------|--------|---------|--------|------------|--------|---------|------------|-------|
 | 59.20  |	74.69 |	 56.04	|  49.42 |    60.08   | 59.81  |  59.61  |   60.04    |	53.92 |
 
+As shown on [leaderboard](https://www.tanksandtemples.org/leaderboard/).
+
 <img src="doc/T&T_results.png" width="800"> 
 
-#### Results on BlendMVS
+### Results on BlendMVS
 
 <img src="doc/blendMVS_results.png" width="800"> 
 
