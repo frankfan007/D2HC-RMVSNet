@@ -50,7 +50,7 @@ Evaluate the point clouds using the [DTU evaluation code](http://roboimagedata.c
 |--------|--------|---------|--------|------------|--------|---------|------------|-------|
 | 59.20  |	74.69 |	 56.04	|  49.42 |    60.08   | 59.81  |  59.61  |   60.04    |	53.92 |
 
-As shown on [leaderboard](https://www.tanksandtemples.org/leaderboard/).
+As shown on Tanks and Temples [leaderboard](https://www.tanksandtemples.org/leaderboard/).
 
 <img src="doc/T&T_results.png" width="800"> 
 
