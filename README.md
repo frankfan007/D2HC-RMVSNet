@@ -2,6 +2,8 @@
 
 Here is the official repository of our paper "Dense Hybrid Recurrent Multi-view Stereo Net with Dynamic Consistency Checking" (ECCV2020 Spotlight).
 
+<img src="doc/architecture.png" width="800"> 
+
 ## How to Use
 
 ### Requirements
